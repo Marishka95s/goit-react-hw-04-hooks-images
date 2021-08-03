@@ -8,7 +8,7 @@ export default function Modal({ onClose, src, alt }) {
     useEffect(() => {
         window.addEventListener('keydown', handleKeydown);
 
-        return (window.removeEventListener('keydown', handleKeydown))
+        return () => window.removeEventListener('keydown', handleKeydown)
     })
 
     const handleKeydown = e => {

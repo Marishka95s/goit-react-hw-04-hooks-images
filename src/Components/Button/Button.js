@@ -16,5 +16,5 @@ export default function Button({ onFetchImages }) {
     )
 };
 Button.propTypes = {
-    onClick: PropTypes.func.isRequired,
+    onClick: PropTypes.func,
 };
