@@ -1,11 +1,11 @@
 {
-  "name": "goit-react-hw-03-image-finder",
+  "name": "goit-react-hw-04-hooks-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marishka95s.github.io/goit-react-hw-03-image-finder",
+  "homepage": "https://marishka95s.github.io/goit-react-hw-04-hooks-images",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marishka95s/goit-react-hw-03-image-finder.git"
+    "url": "git+https://github.com/Marishka95s/goit-react-hw-04-hooks-images.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
